@@ -24,11 +24,11 @@ $ cargo install rot8
 
 ```
 
-For Sway map your input to the output device:
+For Sway, map your input to the output device:
 
 ```
 
-$ swaymsg <INPUTDEVICE> map_to_output <OUTPUTDEVICE>
+$ swaymsg input <INPUTDEVICE> map_to_output <OUTPUTDEVICE>
 
 ```
 
